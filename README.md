@@ -6,7 +6,7 @@ I am Piotrek, I am 16 years old, I live in Poland, I am interested in programmin
 
 Skills: JS/PY/HTML/TY/JAVA
 
-- 🔭 I’m currently working on @GE 
+- 🔭 I’m currently working on @GenzyBOT
 - 🌱 I’m currently learning mathematics 😂 
 - 💬 Ask me about Programming assistance 
 - 📫 How to reach me: piotrsaklak9@gmail.com 
