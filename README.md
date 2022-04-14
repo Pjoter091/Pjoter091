@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello, my name is Piotr
 #### I am discord bot creator
-![I am discord bot creator](https://cdn.discordapp.com/attachments/963808462754701332/963884439908286544/elo.png)
+![I am discord bot creator](https://cdn.discordapp.com/attachments/963808462754701332/964202882222137434/lis.png)
 
 I am Piotrek, I am 16 years old, I live in Poland, I am interested in programming various applications, bots and websites.
 
