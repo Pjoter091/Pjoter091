@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pjoter</h1>
 <h3 align="center">I am a Polish developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjoter091&label=Profile%20views&color=0e75b6&style=flat" alt="pjoter091" /> </p>
+
 - 🔭 I’m currently working on **GenzyBOT**
+
+- 🤖 My server dicord [GenzyBOT - Support](https://discord.gg/QNPmM4R8)
 
 - 📫 How to reach me **piotrsaklak9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/pjoterus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pjoterus" height="30" width="40" /></a>
 <a href="https://twitter.com/pio992s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pio992s" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/pjjoter012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="pjjoter012" height="30" width="40" /></a>
 <a href="https://discord.gg/.pjoterus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".pjoterus" height="30" width="40" /></a>
 </p>
 
