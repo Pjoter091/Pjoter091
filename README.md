@@ -3,7 +3,7 @@
 
 <img aligin="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjoter091&label=Profile%20views&color=0e75b6&style=flat" alt="pjoter091" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pjoter091&label=Profile%20views&color=0e75b6&style=flat" alt="pjoter091" /> </p>
 
 - 🔭 I’m currently working on **GenzyBOT**
 
