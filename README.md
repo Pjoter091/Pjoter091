@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **GenzyBOT**
 
-- 🤖 My server dicord [GenzyBOT - Support](https://discord.gg/QNPmM4R8)
+- 🤖 My server discord [GenzyBOT - Support](https://discord.gg/QNPmM4R8)
 
 - 📫 How to reach me **piotrsaklak9@gmail.com**
 
